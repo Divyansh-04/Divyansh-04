@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divyansh-04
-- 👀 I’m interested in ,well learning. Learning all kinds of things.
+- 👀 I’m interested in, well learning, learning all kinds of things.
 - 🌱 I’m currently learning about web dev, specifically nodejs.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on whatever you got in mind.
 - 📫 How to reach me: email me on divyanshgoel2004@gmail.com
 
 <!---
